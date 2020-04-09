@@ -1,6 +1,6 @@
 const { RichEmbed } = require('discord.js');
 const { Access, Colors } = require('../../utils/settings');
-const Errors = require('../../utils/Errors');
+const Errors = require('../../utils/errors');
 
 module.exports = {
     config: {
