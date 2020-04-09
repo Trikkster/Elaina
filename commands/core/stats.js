@@ -30,8 +30,9 @@ module.exports = {
     
         const embed = new RichEmbed()
         .setColor(roleColor === '#000000' ? '#ffffff' : roleColor)
-        .setTitle(`${bot.user.username}'s usage information`)
-        .addField('Hardware and usage information.', stripIndents`**Bot Uptime:** ${duration(bot.uptime)}
+        .setAuthor(`${bot.user.username}'s usage information`, bot.user.displayAvatarURL)
+        .setDescription('Hardware and usage information.')
+        .addField(stripIndents`**Bot Uptime:** ${duration(bot.uptime)}
         **Host Uptime:** ${Math.round(100 * (os.uptime / 86400) / 100)} Days
         **CPU Core:** ${os.cpus().length} Cores
         **CPU Usage:** ${cpuLoad}%
