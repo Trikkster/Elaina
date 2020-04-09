@@ -72,7 +72,7 @@ You can find all settings in the config.json file, without filling in all the de
 
 - **bot_channel** Channel where the bot listens to commands, disabled by default
 - **bot_channel.music** Settings for all music commands
-<hr>
+
 ## Contributing
 If you want to contribute to this project you can follow the steps below.
 Not a programmer? You can always [open an issue](https://github.com/xrzky/Evira-Bot/issues/new) and share your ideas!
