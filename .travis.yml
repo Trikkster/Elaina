@@ -4,6 +4,4 @@ node_js:
   - '12'
 env:
   - TOKEN=TKN
-install: npm i
-script:
-  - node index.js
+install: npm i -g eslint@5 eslint-config-amber eslint-plugin-json
