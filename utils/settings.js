@@ -1,9 +1,10 @@
 module.exports = {
     Access: {
-        'OWNERS': '427560082142920707'
+        'OWNERS': `${process.env.OWNERID}`,
+        'YOUTUBE': `${process.env.YOUTUBEKEY}`
     },
     Client: {
-        'PREFIX': '$'
+        'PREFIX': `${process.env.PREFIX}`
     },
     Colors: {
         'DEFAULT': '0',
