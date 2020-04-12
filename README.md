@@ -1,8 +1,12 @@
+# Evira Bot
+###### <i>Evira is a Discord bot intended to be able to perform various tasks, ranging from simple server moderation (Kick, ban etc.)</i>
+<div align="center">
+---
+<br>
 <p align="center">
-<img src="https://i.imgur.com/6UjgBXg.png">
-</p>
-
-<p align="center">
+<a href="https://discord.gg/GG69j8w"> 
+    <img src="https://img.shields.io/discord/439323863139090434.svg?colorB=7289da&logo=discord&logoColor=white&label=Support&style=for-the-badge" alt="Support">
+</a>
 <a href="https://travis-ci.com/xrzky/Evira-Bot">
     <img src="https://img.shields.io/travis/com/xrzky/Evira-Bot.svg?style=for-the-badge" alt="Build">
 </a>
@@ -22,20 +26,14 @@
 <a href="https://github.com/xrzky/Evira-Bot/pulls">
     <img src="https://img.shields.io/github/issues-pr/xrzky/Evira-Bot.svg?style=for-the-badge&colorB=37f149" alt="Pull Request">
 </a>
-<br>
-<a href="https://discord.gg/Rbx9E7V"><img src="https://discordapp.com/api/guilds/439323863139090434/widget.png?style=banner2" alt="Discord server"></a>
 </p>
-
----
-
-Orange Fox is a Discord bot intended to be able to perform various tasks, ranging from simple server moderation (Kick, ban etc.) to other functions such as the ability to stream music from youtube
-
 this bot was made in
 [Node.JS](https://nodejs.org), using the
 [Discord.js](https://discord.js.org/#/) library.
 
+---
+
 ## Features
-- Ability to stream music from Youtube
 - Moderation commands (kick, ban etc)
 - Search youtube for videos
 - Search 4chan
