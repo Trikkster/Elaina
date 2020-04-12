@@ -1,9 +1,10 @@
 # Evira Bot
-###### <i>Evira is a Discord bot intended to be able to perform various tasks, ranging from simple server moderation (Kick, ban etc.)</i>
 <div align="center">
+###### <i>Evira is a Discord bot intended to be able to perform various tasks, ranging from simple server moderation (Kick, ban etc.)</i>
+
 ---
+
 <br>
-<p align="center">
 <a href="https://discord.gg/GG69j8w"> 
     <img src="https://img.shields.io/discord/439323863139090434.svg?colorB=7289da&logo=discord&logoColor=white&label=Support&style=for-the-badge" alt="Support">
 </a>
@@ -26,10 +27,8 @@
 <a href="https://github.com/xrzky/Evira-Bot/pulls">
     <img src="https://img.shields.io/github/issues-pr/xrzky/Evira-Bot.svg?style=for-the-badge&colorB=37f149" alt="Pull Request">
 </a>
-</p>
-this bot was made in
-[Node.JS](https://nodejs.org), using the
-[Discord.js](https://discord.js.org/#/) library.
+</div>
+this bot was made in [Node.JS](https://nodejs.org), using the [Discord.js](https://discord.js.org/#/) library.
 
 ---
 
